@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TwitterLogin</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="twitter_consumer_api_key">0g2GetIyUBN5QjHFbXj5cfa6V</string>
+    <string name="twitter_consumer_api_secret_key">W2jRGaBRwftr3TBoSOejn6dCHEyWWJaPSe2d88RPbPmiDwJlMU</string>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">0g2GetIyUBN5QjHFbXj5cfa6V</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">W2jRGaBRwftr3TBoSOejn6dCHEyWWJaPSe2d88RPbPmiDwJlMU</string>
+    <string name="twitter_callback_url">oauth://www.google.com</string>
+
+</resources>
